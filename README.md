@@ -1,2 +1,2 @@
-#Treinando código limpo
+# Treinando código limpo
 Esse projeto faz parte de um treinamento do curso de Dev junto a Digital College para aperfeiçoar e tirar algumas dúvidas sobre como melhorar nosso código, para um melhor entendimento de quem visualiza ou até mesmo pra facilitar no momento de manutenções futuras.
